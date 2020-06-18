@@ -9,7 +9,7 @@ using System.Text;
 
 namespace Euler
 {
-    partial class Program
+    partial class Main_Program
     {
         static void Main(string[] args)
         {

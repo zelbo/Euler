@@ -19,7 +19,7 @@ using System.Text;
 
 namespace Euler
 {
-    partial class Program
+    partial class Main_Program
     {
         public static long Problem2()
         {

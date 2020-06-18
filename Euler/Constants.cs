@@ -1,6 +1,6 @@
 ﻿namespace Euler
 {
-    partial class Program
+    partial class Main_Program
     {
         // should these be enums?
         public const int upperLimit = 1000;
